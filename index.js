@@ -10,4 +10,4 @@ You should NOT try to redefine any of the above variables.
 const newId = oldID
 const ageIsValid = Number.isInteger(currentAge)
 const randomNumber = Math.random(0, 20)
-const randomInteger = Math.random()
+const randomInteger = Math.floor()
